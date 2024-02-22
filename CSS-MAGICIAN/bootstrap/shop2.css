@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.col-md-4 {
+    width: 3 rem;
+    height: 3 rem;
+}
+
+.card {
+    width: 3 rem;
+    height: 50rem;
+}
+
+.img-fluid {
+    max-width: 3%;
+    height: auto;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.btn {
+    margin-right: 10px;
+    border-radius: 4px;
+    border-color: orange;
+    background-color: #f6f6f9;
+    color: orange;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 8px 0 0 20px;
+    padding: 4px;
+    background: #eaeaed;
+    border: 1px solid #9799a7;
+}
